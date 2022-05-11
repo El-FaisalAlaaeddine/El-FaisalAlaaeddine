@@ -15,8 +15,8 @@ I graduated in fall 2021 from the Lebanese American University in the distiction
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/el-faisal-alaaeddine-65b289217#gh-light-mode-only)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/el-faisal-alaaeddine-65b289217#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![instagram](./img/instagram-light.svg)](https://instagram.com/faisal._2000#gh-light-mode-only)
-[![instagram](./img/instagram-dark.svg)](https://instagram.com/faisal._2000#gh-dark-mode-only)
+[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/faisal._2000#gh-light-mode-only)
+[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/faisal._2000#gh-dark-mode-only)
 
 [instagram]: https://instagram.com
 [linkedin]: https://linkedin.com/in
