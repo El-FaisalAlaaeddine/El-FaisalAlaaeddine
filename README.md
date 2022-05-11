@@ -18,8 +18,8 @@ I graduated in fall 2021 from the Lebanese American University in the distiction
 [![instagram](./img/instagram-light.svg)](https://instagram.com/faisal._2000#gh-light-mode-only)
 [![instagram](./img/instagram-dark.svg)](https://instagram.com/faisal._2000#gh-dark-mode-only)
 
-[instagram]: https://instagram.com/faisal._2000
-[linkedin]: https://linkedin.com/in/el-faisal-alaaeddine-65b289217
+[instagram]: https://instagram.com
+[linkedin]: https://linkedin.com/in
 
 ### Languages and Tools:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
