@@ -9,11 +9,11 @@
 
 ### Connect with me:
 &nbsp;&nbsp;
-(./img/linkedin-light.svg)](https://linkedin.com/in/el-faisal-alaaeddine-65b289217#gh-light-mode-only)
-(./img/linkedin-dark.svg)](https://linkedin.com/in/el-faisal-alaaeddine-65b289217#gh-dark-mode-only)
+[![website](./img/linkedin-light.svg)](https://linkedin.com/in/el-faisal-alaaeddine-65b289217#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/el-faisal-alaaeddine-65b289217#gh-dark-mode-only)
 &nbsp;&nbsp;
-(./img/instagram-light.svg)](https://instagram.com/faisal._2000#gh-light-mode-only)
-(./img/instagram-dark.svg)](https://instagram.com/faisal._2000#gh-dark-mode-only)
+[![website](./img/instagram-light.svg)](https://instagram.com/faisal._2000#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://instagram.com/faisal._2000#gh-dark-mode-only)
 
 [instagram]: https://instagram.com/faisal._2000
 [linkedin]: https://linkedin.com/in/el-faisal-alaaeddine-65b289217
