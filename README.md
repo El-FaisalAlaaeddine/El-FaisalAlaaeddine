@@ -26,7 +26,7 @@
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;"/>
 <img align="left" alt="HTML5" width="26px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"
  style="padding-right:10px;"/>
- 
+ <br/>
 ### More about me:
 I graduated in fall 2021 from the Lebanese American University in the distiction's list with a degree in mathematics an minor in computer science. Currently in the process to being a web developer by upskilling myself to learn more about web languages and frameworks ⚡.  
 
