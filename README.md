@@ -30,5 +30,7 @@ I graduated in fall 2021 from the Lebanese American University in the distiction
 <img align="left" alt="HTML5" width="26px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"
  style="padding-right:10px;"/>
  
+[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=El-FaisalAlaaeddine)](https://github.com/El-FaisalAlaaeddine)
 
-###
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=El-FaisalAlaaeddine&layout=compact)](https://github.com/El-FaisalAlaaeddine)
+
