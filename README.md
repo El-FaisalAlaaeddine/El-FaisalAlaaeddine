@@ -1,14 +1,19 @@
-Hi there 👋
+# Hi there, I'm El Faisal 👋 
 
-**El-FaisalAlaaeddine/El-FaisalAlaaeddine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm a Mathematician and a Coder!!
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning Web Development 
+- 👯 I’m looking to work in this field and excel on it
+- 🥅 2022 Goals: Learn more about various web languages and frameworks
+- ⚡ Fun fact: I love to play soccer and code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### Connect with me:
+&nbsp;&nbsp;
+[![website](./img/linkedin-light.svg)](https://linkedin.com/in/el-faisal-alaaeddine-65b289217#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/el-faisal-alaaeddine-65b289217#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/instagram-light.svg)](https://instagram.com/faisal._2000#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://instagram.com/faisal._2000#gh-dark-mode-only)
+
+[instagram]: https://instagram.com/faisal._2000
+[linkedin]: https://linkedin.com/in/el-faisal-alaaeddine-65b289217
