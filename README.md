@@ -7,6 +7,9 @@
 - 🥅 2022 Goals: Learn more about various web languages and frameworks
 - ⚡ Fun fact: I love to play soccer and code
 
+### More about me:
+I graduated in fall 2021 from the Lebanese American University in the distiction's list with a degree in mathematics an minor in computer science. Currently in the process to being a web developer by upskilling myself to learn more about web languages and frameworks ⚡.  
+
 ### Connect with me:
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://linkedin.com/in/el-faisal-alaaeddine-65b289217#gh-light-mode-only)
@@ -27,6 +30,5 @@
 <img align="left" alt="HTML5" width="26px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"
  style="padding-right:10px;"/>
  
-### More about me:
-I graduated in fall 2021 from the Lebanese American University in the distiction's list with a degree in mathematics an minor in computer science. Currently in the process to being a web developer by upskilling myself to learn more about web languages and frameworks ⚡.  
+
 ###
